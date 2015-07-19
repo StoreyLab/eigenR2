@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+
+\bibitem{chen2008}
+L.~S. Chen and J.D. Storey.
+\newblock {Eigen-$R^2$} for dissecting variation in high-dimensional studies.
+\newblock submitted, 2008.
+
+\bibitem{leek2007}
+J.~T. Leek and J.D. Storey.
+\newblock Capturing heterogeneity in gene expression studies by ``surrogate
+  variable analysis$"$.
+\newblock {\em PLos Genetics}, 3:e161, 2007.
+
+\end{thebibliography}

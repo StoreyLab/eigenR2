@@ -1,0 +1,9 @@
+eigSdat			Simulated data set containing a matrix of related
+		        response variables, and several independent 
+                        variables
+eigenR2			Function to calculate the eigen-R2 values
+eigenR2plot		Graphical summary of each right eigenvector modeled
+                        in terms of the independent variables
+sva.id			Estimates the number of significant right 
+                        eigenvectors to include in the eigen-R2 computation
+fast.svd		Fast singular value decomposition

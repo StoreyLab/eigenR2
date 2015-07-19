@@ -1,0 +1,4 @@
+export(eigenR2)
+export(plot.eigenR2)
+export(sva.id)
+export(fast.svd)
